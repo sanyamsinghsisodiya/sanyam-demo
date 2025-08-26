@@ -1,4 +1,4 @@
 # sanyam-demo
 this is my first git repo
 <br>
-author- sanyam singh sisodiya
+author- sanyam (Apna College)
